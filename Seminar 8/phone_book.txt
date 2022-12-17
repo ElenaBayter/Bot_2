@@ -1,0 +1,5 @@
+Ivan Petrov;000000001;Student
+Stone;0000000002;Seminars
+Max;000003;Teacher
+Larisa;0000004;Home
+Alexandr;000005;Work
